@@ -1,2 +1,2 @@
 # cloudguru
-DevOps Study Coursed
+DevOps Study Course
